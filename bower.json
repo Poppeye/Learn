@@ -1,0 +1,21 @@
+{
+  "name": "Learn",
+  "description": "Place to try out new stuff",
+  "main": "",
+  "authors": [
+    "Pancham Bhagwat"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
