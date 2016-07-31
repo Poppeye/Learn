@@ -9,6 +9,6 @@
     HomeController.$inject = ['$log'];
     function HomeController($log) {
         var vm = this;
-        vm.title = "Pancham here!";
+        vm.title = "Hello World! Pancham here!";
     }
 })();
